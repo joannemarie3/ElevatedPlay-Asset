@@ -12,7 +12,7 @@
           <li><a href="#">References</a></li>
           <li class="active"><a href="#">Status</a></li>
         </ol>
-      </section>
+        <br>
       <br>
     </div><!-- box-body -->
     <div ><!-- /.box-header -->
